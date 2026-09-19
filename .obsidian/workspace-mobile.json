@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "37524f8fff24021c",
+        "id": "963a510d59ebe30f",
         "type": "tabs",
         "children": [
           {
-            "id": "de14e00631e481e5",
+            "id": "38415cebae69890f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "weeks/第36周.md",
-                "mode": "source",
+                "file": "weeks/第38周.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第36周"
+              "title": "第38周"
             }
           }
         ]
@@ -37,7 +37,7 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": false,
+            "autoReveal": true,
             "showSearch": false,
             "searchQuery": ""
           },
@@ -46,7 +46,7 @@
         }
       },
       {
-        "id": "5e5a029c6e387141",
+        "id": "6a24af03152ec400",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -60,48 +60,6 @@
           },
           "icon": "lucide-search",
           "title": "搜索"
-        }
-      },
-      {
-        "id": "c4a014d797decf49",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true,
-            "showSearch": false,
-            "searchQuery": ""
-          },
-          "icon": "lucide-tags",
-          "title": "标签"
-        }
-      },
-      {
-        "id": "d3fab94d4d649b66",
-        "type": "leaf",
-        "state": {
-          "type": "all-properties",
-          "state": {
-            "sortOrder": "frequency",
-            "showSearch": false,
-            "searchQuery": ""
-          },
-          "icon": "lucide-archive",
-          "title": "添加笔记属性"
-        }
-      },
-      {
-        "id": "f64c80ee9252608a",
-        "type": "leaf",
-        "state": {
-          "type": "bookmarks",
-          "state": {
-            "showSearch": false,
-            "searchQuery": ""
-          },
-          "icon": "lucide-bookmark",
-          "title": "书签"
         }
       }
     ],
@@ -117,6 +75,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "weeks/第38周.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -170,15 +129,26 @@
       "bases:新建数据库": false
     }
   },
-  "active": "de14e00631e481e5",
+  "active": "38415cebae69890f",
   "lastOpenFiles": [
-    "主题笔记/餐饮.md",
-    "weeks/第35周.md",
     "weeks/第37周.md",
+    "weeks/第35周.md",
     "weeks/第36周.md",
     "weeks/第38周.md",
-    "README.md",
+    "主题笔记/天气.md",
+    "主题笔记/清洁与家务.md",
+    "主题笔记/购物与付款.md",
+    "主题笔记/日常交流.md",
+    "主题笔记/身体与护理.md",
+    "主题笔记/生活用品与包装.md",
     "主题笔记/交通.md",
+    "主题笔记/基础表达.md",
+    "主题笔记/工作.md",
+    "主题笔记/餐饮.md",
+    "主题笔记/安全与公共服务.md",
+    "README.md",
+    "吹头发.md",
+    "AGENTS.md",
     "欢迎.md"
   ]
 }
