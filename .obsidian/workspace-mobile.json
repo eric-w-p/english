@@ -51,7 +51,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "肌肉",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -63,7 +63,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "d8d73058bfb32bd2",
@@ -129,9 +129,10 @@
       "bases:新建数据库": false
     }
   },
-  "active": "6a24af03152ec400",
+  "active": "38415cebae69890f",
   "lastOpenFiles": [
     "AGENTS.md",
+    "weeks/第39周.md",
     "weeks/第37周.md",
     "weeks/第38周.md",
     "weeks/第36周.md",
