@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "weeks/第35周.md",
-                "mode": "preview",
+                "file": "程序员英语/测试与接口联调.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第35周"
+              "title": "测试与接口联调"
             }
           }
         ]
@@ -75,7 +75,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "weeks/第35周.md",
+            "file": "程序员英语/测试与接口联调.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -131,15 +131,16 @@
   },
   "active": "38415cebae69890f",
   "lastOpenFiles": [
+    "程序员英语/需求与团队协作.md",
+    "程序员英语/测试与接口联调.md",
+    "weeks/第35周.md",
     "程序员英语/后端与数据.md",
     "程序员英语/发布与线上问题.md",
     "程序员英语/调试与问题定位.md",
     "程序员英语/面试与职业介绍.md",
-    "程序员英语/需求与团队协作.md",
     "程序员英语/代码评审与版本管理.md",
     "程序员英语/README.md",
     "程序员英语/前端与功能开发.md",
-    "程序员英语/测试与接口联调.md",
     "程序员英语/系统设计与安全.md",
     "程序员英语",
     "weeks/第37周.md",
@@ -148,7 +149,6 @@
     "weeks/第38周.md",
     "AGENTS.md",
     "主题笔记/餐饮.md",
-    "weeks/第35周.md",
     "主题笔记/天气.md",
     "主题笔记/清洁与家务.md",
     "主题笔记/购物与付款.md",
